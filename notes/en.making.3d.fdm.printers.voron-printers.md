@@ -2,13 +2,15 @@
 id: 5mehtw02w8s7rbnt7sr0t1i
 title: Voron Printers
 desc: 'Exploring the Three Different Voron 3D Printers: V2.4, Trident, and V0'
-updated: 1714333794027
+updated: 1714509375592
 created: 1691236229372
 tags:
   - open-source
 post-date: '2022-06-27'
 ---
-![Voron 3D Printers](./assets/images/3d-printer.jpg)
+![Voron 3D Printers](assets/images/3d-printer.jpg)
+![Voron 3D Printers](/assets/images/3d-printer.jpg) solo questa funzia
+![Voron 3D Printers](./assets/images/3d-printer.jpg) 
 
 The Voron 3D printer community has gained significant popularity among enthusiasts and makers for its innovative designs and exceptional performance. Three prominent models in the Voron lineup are the V2.4, Trident, and V0. In this blog post, we will explore these three different Voron 3D printers, their unique features, and what sets them apart from each other.
 
